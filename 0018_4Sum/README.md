@@ -11,10 +11,8 @@ The solution set must not contain duplicate quadruplets.
 ### Example:
 
 ```
-给定数组 nums = [1, 0, -1, 0, -2, 2]，和 target = 0。
 Given array nums = [1, 0, -1, 0, -2, 2], and target = 0.
 
-满足要求的四元组集合为：
 A solution set is:
 [
   [-1,  0, 0, 1],
